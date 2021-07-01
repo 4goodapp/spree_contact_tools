@@ -1,0 +1,67 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  spree:
+    contact_tools:
+      contact: Contact
+      contacts:
+        admin:
+          back_index: Go back to index
+          contacts: Contacts
+          email: Email
+          export: Export
+          firstname: Prénom
+          lastname: nom
+          message: Message
+          phone: Téléphone
+          title: Contacts
+          setting:
+            contact: Formulaire de contacts
+            mailer_from: Mail from
+            mailer_to: Mail to
+            subject: Sujet
+            recaptcha: Recaptcha
+            recaptcha_instructions: Laisser ce champs vide si vous ne voulait pas utiliser Recaptcha.
+            site_key: Site key
+            secret_key: Secret key
+            update: mettre à jour
+          settings: réglages
+          settings_success_msg: réglages mis un jour
+        back_home: Retourner à l'accueil
+        email: Email
+        email_email: Email
+        email_message: Message
+        email_phone: Phone
+        email_subject: Nouveau contact
+        email_user: User
+        instructions: Remplissez tous les champs et cliquez sur envoyer SVP.
+        firstname: Prénom
+        lastname: Nom
+        message: Votre message
+        phone: Téléphone
+        recaptcha:
+          errors:
+            verification_failed: reCAPTCHA est incorrect, réessayer SVP
+            recaptcha_unreachable: reCAPTCHA verification server error, please try again.
+        recaptcha_validation_error: vérifier que vous avez complété reCAPTCHA SVP.
+        send: Send
+        success_msg: ¡Message envoyer avec succès! 
+        title: Contactez-nous
+      newsletter: Newsletter
+      newsletters:
+        admin:
+          email: Email
+          export: Export
+          newsletters: Newsletters
+          title: Newsletters
+        email: Email
+        id: CODE
+        success_msg: ¡Message envoyer avec succès!
+        template:
+          placeholder: Email
+          button_text: S'inscrire
+        title: Newsletter
+      users: 
+        admin:
+          users: Users
