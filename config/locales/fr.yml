@@ -7,7 +7,7 @@ en:
       contact: Contact
       contacts:
         admin:
-          back_index: Go back to index
+          back_index: Retournez à la page d'acceuil.
           contacts: Contacts
           email: Email
           export: Export
@@ -28,7 +28,7 @@ en:
             update: mettre à jour
           settings: réglages
           settings_success_msg: réglages mis un jour
-        back_home: Retourner à l'accueil
+        back_home: Retourner à la page l'accueil
         email: Email
         email_email: Email
         email_message: Message
@@ -46,7 +46,7 @@ en:
             recaptcha_unreachable: reCAPTCHA verification server error, please try again.
         recaptcha_validation_error: vérifier que vous avez complété reCAPTCHA SVP.
         send: Envoyer
-        success_msg: ¡Message envoyer avec succès! 
+        success_msg: Message envoyer avec succès.
         title: Contactez-nous
       newsletter: Newsletter
       newsletters:
@@ -57,7 +57,7 @@ en:
           title: Newsletters
         email: Email
         id: CODE
-        success_msg: ¡Message envoyer avec succès!
+        success_msg: Message envoyer avec succès.
         template:
           placeholder: Email
           button_text: S'inscrire
