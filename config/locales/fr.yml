@@ -42,10 +42,10 @@ en:
         phone: Téléphone
         recaptcha:
           errors:
-            verification_failed: reCAPTCHA est incorrect, réessayer SVP
+            verification_failed: reCAPTCHA est incorrect, réessayer SVP.
             recaptcha_unreachable: reCAPTCHA verification server error, please try again.
         recaptcha_validation_error: vérifier que vous avez complété reCAPTCHA SVP.
-        send: Send
+        send: Envoyer
         success_msg: ¡Message envoyer avec succès! 
         title: Contactez-nous
       newsletter: Newsletter
