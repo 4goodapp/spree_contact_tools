@@ -46,7 +46,7 @@ en:
             recaptcha_unreachable: reCAPTCHA verification server error, please try again.
         recaptcha_validation_error: Please verify you've completed reCAPTCHA.
         send: Send
-        success_msg: ¡Message sended succesfully! 
+        success_msg: Message sent succesfully.
         title: Contact
       newsletter: Newsletter
       newsletters:
@@ -57,7 +57,7 @@ en:
           title: Newsletters
         email: Email
         id: CODE
-        success_msg: ¡Message sended succesfully! 
+        success_msg: Message sent succesfully.
         template:
           placeholder: Email
           button_text: Subscribe
