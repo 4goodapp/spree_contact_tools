@@ -11,6 +11,6 @@ Spree::Core::Engine.add_routes do
   resources :contacts
   resources :newsletters
 
-  get '/contact_us', to: 'contacts#new', as: 'contact_us'
+  get '/contact_us', to: 'contacts#new', as: 'contact_us_form'
   get '/contact_success', to: 'contacts#success', as: 'contact_success'
 end
