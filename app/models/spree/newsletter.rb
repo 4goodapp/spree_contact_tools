@@ -19,9 +19,9 @@ module Spree
 
     def self.to_csv
       CSV.generate(headers: true) do |csv|
-        csv << [Spree.t('contact_tools.newsletters.id'), Spree.t('contact_tools.newsletters.email')]
+        csv << [Spree.t('contact_tools.newsletters.id'), Spree.t('contact_tools.newsletters.email'), "Date"]
         all.each do |newsletter|
-          csv << [newsletter.id, newsletter.email]
+          csv << [newsletter.id, newsletter.email, newsletter.created_at]
         end
       end
     end
